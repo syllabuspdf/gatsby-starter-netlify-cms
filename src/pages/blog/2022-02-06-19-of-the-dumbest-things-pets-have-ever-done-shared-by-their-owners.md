@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 19 Of The Dumbest Things Pets Have Ever Done Shared By Their Owners
-date: 2022-02-06T17:27:50.578Z
+date: 2022-02-05T17:48:01.255Z
 description: >-
   ## **Animals aren’t the smartest when it comes to some things.**
 
